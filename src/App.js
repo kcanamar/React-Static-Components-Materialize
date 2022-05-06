@@ -9,13 +9,13 @@ function App() {
   return (
     <div className="App">
           <Navbar />
-          <div className="row">
+          <div className="row ">
 
-            <div className="col s3 center-align">
+            <div className="col l2 m3 s12 #64b5f6 blue lighten-2">
               <Sidebar />
             </div>
 
-            <div className="col s9">
+            <div className="col l10 m9 s12">
               <Dashboard />
             </div>
 

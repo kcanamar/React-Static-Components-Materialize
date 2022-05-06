@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer className="page-footer">
+        <footer className="page-footer #424242 grey darken-3">
           <div className="container">
             <div className="row">
               <div className="col l4 s12">
